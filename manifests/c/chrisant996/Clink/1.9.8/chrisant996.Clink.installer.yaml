@@ -10,6 +10,8 @@ InstallModes:
 - silent
 UpgradeBehavior: install
 ProductCode: clink_chrisant996
+AppsAndFeaturesEntries:
+- DisplayVersion: clink v1.9.8.c53f59
 Installers:
 - Architecture: x86
   InstallerUrl: https://github.com/chrisant996/clink/releases/download/v1.9.8/clink.1.9.8.c53f59_setup.exe
